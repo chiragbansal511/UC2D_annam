@@ -1,0 +1,14 @@
+{
+  "CustomCNN": {
+    "val_accuracy": 84.66,
+    "precision": 85.37
+  },
+  "MobileNetV2": {
+    "val_accuracy": 99.8,
+    "precision": 99.41
+  },
+  "ResNet50": {
+    "val_accuracy": 97.85,
+    "precision": 99.59
+  }
+}
